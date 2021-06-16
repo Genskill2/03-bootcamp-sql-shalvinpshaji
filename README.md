@@ -68,7 +68,7 @@ will print the names of all books by published by PHI.
 
 ### All books published by UK publishers
 Creating a file called `query2.sql` which will contain a query that
-will print the names and publishers of all books by published by
+will print the names and publishers of all books published by
 publishers in the UK
 
 ### All books on Technology or Politics
